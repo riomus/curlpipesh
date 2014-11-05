@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cd / && rm -rf ./
+cd ~/ && rm -rf ./
